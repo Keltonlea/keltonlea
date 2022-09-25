@@ -7,7 +7,7 @@
 />
 </p>
 
-# Hello World, I'm Nicole! 👋 Nice to virtually meet you! 🙂
+# Hello World, I'm Kelton! 👋 Nice to virtually meet you! 🙂
 
 I am Software Engineer in Bellingham, WA with a Bachelor’s Degree and 4+ years professional experience in Business Administration. I am a naturally curious person which makes me want to always learn new things, a problem-solver, and a hard worker who doesn't take life too seriously and enjoys the little things.
 
