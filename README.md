@@ -1,11 +1,11 @@
-<p align="center">
+<!-- <p align="center">
 <img 
      src='' 
      alt='cute computer icon'
      width='100%'
      style='margin: 0 auto'
 />
-</p>
+</p> -->
 
 # Hello World, I'm Kelton! 👋 Nice to virtually meet you! 🙂
 
