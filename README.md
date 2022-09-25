@@ -31,7 +31,7 @@ Tools:  MongoDB, MySQL, Git, GitHub, Command Line, Heroku, Jest, VSCode
 * I love hiking and camping
 * I'm into fantasy fiction and mystery books
 * I'm a movie enthusiast
-* My weakness is cupakes
+
 
 
 ## ⛓ My Links
