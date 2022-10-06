@@ -49,7 +49,7 @@ MERN Stack (MongoDB, Express.js, React.js, Node.js)
 
 
 ## ⛓ My Links
-* LinkedIn: https://www.linkedin.com/in/kelton-leach-938557172/
+* LinkedIn: https://www.linkedin.com/in/kelton360
 * Portfolio: https://keltonleach-website.vercel.app/
 
 ✉️ Get in contact with me 
